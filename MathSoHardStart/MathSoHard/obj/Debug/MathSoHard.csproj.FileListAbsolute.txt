@@ -1,0 +1,9 @@
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\bin\Debug\MathSoHard.exe.config
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\bin\Debug\MathSoHard.exe
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\bin\Debug\MathSoHard.pdb
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\bin\Debug\MathSoHardLogic.dll
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\bin\Debug\MathSoHardLogic.pdb
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\obj\Debug\MathSoHard.csprojResolveAssemblyReference.cache
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\obj\Debug\MathSoHard.csproj.CoreCompileInputs.cache
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\obj\Debug\MathSoHard.exe
+C:\Users\matthew.underhill\source\repos\MathSoHardStart\MathSoHard\obj\Debug\MathSoHard.pdb
